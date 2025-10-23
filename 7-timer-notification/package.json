@@ -1,0 +1,14 @@
+{
+  "name": "7-timer-notification",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-notifier": "^10.0.1"
+  }
+}
